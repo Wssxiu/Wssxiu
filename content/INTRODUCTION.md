@@ -1,8 +1,3 @@
----
-title: Self-Introduction
-tags:
-  - Schedule
----
 你好！我是Wssxiu，你也可以叫我Juicyeee。这是我在[这个视频](https://notes.nicolevanderhoeven.com/How+to+publish+Obsidian+notes+with+Quartz+on+GitHub+Pages)的指引下完成的、基于Obsidian+Quartz+Github Page搭建的[个人博客](https://wssxiu.github.io/Wssxiu/)。
 
 计划在这里完成的事：
