@@ -1,5 +1,5 @@
 ---
-title: 我会在这里做什么
+title: 个人理财学习思路
 tags:
 created: 2025-10-28 星期二 22:40
 modified: 2025-10-29 星期三 00:05
@@ -18,8 +18,13 @@ modified: 2025-10-29 星期三 00:05
 - [FROM Deepseek](https://chat.deepseek.com/a/chat/s/8763b4d9-1b7b-4c71-a3d4-654e05a804fb)
 - [FROM ChatGPT](https://chatgpt.com/c/6900f26a-f36c-832e-93ae-f34bf1e8c443)
 那么基于我个人的想法和AI给的建议，我会先尝试几个路径：
-1. [可汗学院（跳转至我的个人主页）](https://zh.khanacademy.org/profile/me/courses)
+1. Khan Academy
 2. 投资者教育基地：雪球
 3. [Bogleheads](https://www.bogleheads.org/wiki/Main_Page)
-除此之外，我会借鉴[一位网友](https://blog.csdn.net/weixin_42577742/article/details/150350621)的学习计划。
+除此之外，我会借鉴[这位网友](https://blog.csdn.net/weixin_42577742/article/details/150350621)的学习计划。
 
+**Ongoing Projects Log**
+1、[economics-personal-finance(va)](https://www.khanacademy.org/economics-finance-domain/economics-personal-finance-va)
+
+
+**Completed Projects Archive**
